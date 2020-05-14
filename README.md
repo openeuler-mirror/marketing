@@ -1,37 +1,27 @@
-# marketing
+# openEuler Marketing SIG
 
-#### 介绍
-Collections of marketing events proposals and materials
+## SIG 工作范围
 
-#### 软件架构
-软件架构说明
+随着 openEuler 社区的发展，社区计划持续组织多种活动，或和其它社区、组织机构等联合举办宣传活动。 Marketing SIG 负责组织 openEuler 的社区活动，包括但不限于 Meetup、Summit、在线直播等，同时协调社区成员参与活动，并在活动前后的协调渠道进行广泛宣传。 同时通过定期的 SIG 会议沟通活动机会、协调组织工作、协同宣传等等工作。
 
+## 成员
 
-#### 安装教程
+- *genedna*
+- *allesgute*
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### Maintainer 列表
 
-#### 使用说明
+- Eli Ma[@genedna](https://gitee.com/genedna)，*eli@patch.sh*
+- Sheng Qu[@allesgute](https://gitee.com/allesgute), *qusheng@iscas.ac.cn*
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### Committer 列表
 
-#### 参与贡献
+## 沟通方式
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+### 例会
 
+### 邮件列表
 
-#### 码云特技
+## 活动
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### 开源软件供应链点亮计划 - 暑期 2020
