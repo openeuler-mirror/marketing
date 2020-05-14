@@ -4,9 +4,14 @@
 
 从即日起 openEuler 社区通过[开源供应链点亮计划 - 暑期 2020](https://isrc.iscas.ac.cn/summer2020)活动发布开发任务，在活动过程中有对开发任务感兴趣的在校学生会通过社区 Issue / 邮件等方式和发布任务的导师进行沟通。 2020 年 6 月 30 日导师公布选中参与任务开发的学生，从 7 月 1 日开始到 9 月 30 日之间进行为期三个月的开发，在这个过程中导师对学生进行多种形式的辅导，帮助学生完成开发任务。
 
+更多活动介绍
+1. https://docs.google.com/presentation/d/1XtMfT6XLLMw4yajz0M_Gi9WI71yk-rhWqx3xcT1q5kU
+2. https://isrc.iscas.ac.cn/summer2020
+3. https://openeuler.org/zh/events/20200607.html
+
 ## 1. openEuler 社区任务提交方式
 
-openEuler 社区的开发任务在 Marketing SIG 仓库通过 [Issue](https://gitee.com/openeuler/marketing/issues) 的方式提交。
+openEuler 社区的开发任务在 Marketing SIG 仓库通过 [Issue](https://gitee.com/openeuler/marketing/issues) 的方式提交。如果有额外的文件需要补充，可以使用 [Issue](https://gitee.com/openeuler/marketing/issues) 的上传附件功能补充添加。
 
 - [Issue 类型] _暑期2020_
 - [负责人] 增加 _genedna_ 和 _allesgute_ 为协作者
@@ -18,15 +23,15 @@ openEuler 社区的开发任务在 Marketing SIG 仓库通过 [Issue](https://gi
 
 ### 1.1 openEuler 社区任务模板
 
-_标题_ <同 Issue 标题>
+_标题_ <同 Issue 标题，标题尽量能够一句话概括题目的内容>
 
-_描述_ <如果描述中有代码请使用 Markdown 的高亮格式增加可读性；对于任务描述尽量增加背景信息或需求信息，以便于和学生沟通中明确需求>
+_描述_ <如果描述中有代码请使用 Markdown 的代码高亮格式增加可读性；对于任务描述尽量增加背景信息或需求信息，以便于和学生沟通中明确需求>
 
-_难度_ <可以选择难、中、易三个级别描述>
+_难度_ <可以选择难、中、易三个级别描述，对于级别难度原则由导师自己决定，但请参考高校学生的能力>
 
-_导师_ <gitee ID>
+_导师_ <请使用 [genedna](https://gitee.com/genedna) 的格式填写导师在 Gitee ID>
 
-_联系方式_ <必填邮箱，推荐学生和导师通过邮件沟通>
+_联系方式_ <必填邮箱，推荐学生和导师通过邮件沟通，同时建议学生和导师通过 openEuler 的邮件列表沟通，并同时参加相应 SIG 的周会>
 
 _产出标准_ <产出标准需要能够衡量，建议以任务完成合入到仓库主线为最终是否完成的标准>
 
