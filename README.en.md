@@ -1,36 +1,23 @@
-# marketing
+# openEuler Marketing SIG
 
-#### Description
-Collections of marketing events proposals and materials
+## Marketing SIG Scope
 
-#### Software Architecture
-Software architecture description
+As the openEuler community grows, the community plans to organize multiple events on an ongoing basis, or joint advocacy events with other communities, organizations, etc. The Marketing SIG is responsible for organizing openEuler's community events, including but not limited to Meetup, Summit, live webcasts, etc., as well as coordinating the participation of community members in the event and promoting it widely through coordinated channels before and after the event. Also, through regular SIG meetings, opportunities for communication activities, coordination of organizational work, collaborative advocacy, etc.
 
-#### Installation
+## Members
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- *genedna*
+- *allesgute*
 
-#### Instructions
+### Maintainers
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- Eli Ma[@genedna](https://gitee.com/genedna)，*eli@patch.sh*
+- Sheng Qu[@allesgute](https://gitee.com/allesgute), *qusheng@iscas.ac.cn*
 
-#### Contribution
+### Committers
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+## Communication
 
+### Conferences
 
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### Email List
