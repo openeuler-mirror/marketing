@@ -24,4 +24,8 @@
 
 ## 活动
 
-### 开源软件供应链点亮计划 - 暑期 2020
+### 2020 年 5 月 - 10 月 开源软件供应链点亮计划 - 暑期 2020
+[开源供应链点亮计划 - 暑期 2020](https://isrc.iscas.ac.cn/summer2020)是由中科院软件所和 [openEuler](https://openeuler.org) 社区共同举办的一项面向高校学生的暑期活动，旨在鼓励在校学生积极参与开源软件的开发维护，促进国内优秀开源软件社区的蓬勃发展。
+
+1. [openEuler 社区任务列表](events/summer2020/tasks.md)
+2. [openEuler 社区导师任务编写指南](events/summer2020/README.md)
