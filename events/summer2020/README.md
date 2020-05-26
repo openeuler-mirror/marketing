@@ -9,7 +9,10 @@
 2. https://isrc.iscas.ac.cn/summer2020
 3. https://openeuler.org/zh/events/20200607.html
 
-## 1. openEuler 社区任务提交方式
+## 1. [openEuler 社区任务列表](tasks.md)
+
+
+## 2. openEuler 社区任务提交方式
 
 openEuler 社区的开发任务在 Marketing SIG 仓库通过 [Issue](https://gitee.com/openeuler/marketing/issues) 的方式提交。如果有额外的文件需要补充，可以使用 [Issue](https://gitee.com/openeuler/marketing/issues) 的上传附件功能补充添加。
 
@@ -21,7 +24,7 @@ openEuler 社区的开发任务在 Marketing SIG 仓库通过 [Issue](https://gi
 - [标题] 和任务标题相同
 - [内容] 推荐使用以下任务模板
 
-### 1.1 openEuler 社区任务模板
+### 2.1 openEuler 社区任务模板
 
 _标题_ <同 Issue 标题，标题尽量能够一句话概括题目的内容>
 
@@ -42,7 +45,7 @@ _相关项目_ <列出依赖项目的链接或者代码仓库地址>
 _相关资料_ <罗列能提供的参考资料链接>
 
 
-### 1.2 openEuler 社区任务示例
+### 2.2 openEuler 社区任务示例
 
 _标题_ 为 openEuler 添加 Xfce 桌面环境并能够运行在树莓派 4B 上
  
