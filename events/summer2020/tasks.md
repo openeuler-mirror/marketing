@@ -1,5 +1,37 @@
 ### openEuler 社区任务列表
 
+#### [No.88 - 移植 openEuler 至 RK3399 平台 - 【团体任务】](https://gitee.com/openeuler/marketing/issues/I1IJ4B)
+
+-  **openEuler**  是一款开源操作系统。当前  **openEuler**  内核源于 Linux，支持鲲鹏及其它多种处理器，能够充分释放计算芯片的潜能，是由全球开源贡献者构建的高效、稳定、安全的开源操作系统。
+-  **RK3399**  是瑞芯微推出的一款低功耗、高性能的应用处理器芯片。作为  **Firefly**  新一代的顶级开源平台， **RK3399**  凭借其高稳定性、高性能、高集成度、高扩展性而广泛用于人脸识别设备、无人机、机器人、游戏机等应用产品。
+- 本项目的目标是将  **openEuler**  移植到  **Firefly-RK3399**  上，并保证  **RK3399**  的外设均可用。
+- **本任务为团体项目，参与人数 3 -6 人，奖金 6 万元人民币。**
+
+_难度_ 高
+
+_导师_
+- overweight 
+- woqidaideshi 
+
+_联系方式_
+- hexiaowen@huawei.com
+- yafen@iscas.ac.cn
+
+_产出标准_
+- 1. openEuler 的 RK3399 的镜像
+    - 内核基于 openEuler 20.03 LTS 版本的 Linux 内核
+    - 文件系统基于 openEuler 20.03 LTS 软件源制作
+    - 支持 AArch64 架构
+    - 支持通过 dnf 安装 openEuler 20.03 LTS 软件源中的软件包
+    - 支持编译 Linux 内核
+    - RK3399 的硬件模块均可用，如 音频输入输出、USB 3.0、USB 2.0、以太网、Wifi、蓝牙、红外、摄像头、GPIO 等
+- 2. openEuler 内核适配到 RK3399 的内核源码补丁以及针对其他软件包的源码补丁
+- 3. 镜像制作程序和文档
+- 4. RK3399 的 音频输入输出、USB 3.0、USB 2.0、以太网、Wifi、蓝牙、红外、摄像头、GPIO 等的使用文档
+
+_任务链接_ https://gitee.com/openeuler/marketing/issues/I1IJ4B
+
+
 #### [No.1 - 为 openEuler 添加 Xfce 桌面环境并能够运行在树莓派 4B 上](https://gitee.com/openeuler/marketing/issues/I1H8G3)
 
 _描述_ 树莓派（英语：Raspberry Pi）是基于 Linux 的单片机电脑，目的是以低价硬件及自由软件促进学校的基本计算机科学教育。openEuler 树莓派版本目前没有桌面环境。本项目的目标是为树莓派添加桌面支持，即适配桌面环境 Xfce 到 openEuler 树莓派 4B。
@@ -1574,36 +1606,6 @@ _联系方式_
 pwang7@foxmail.com
 
 _任务链接_ https://gitee.com/openeuler/marketing/issues/I1IMFO
-
-#### [No.88 - 移植 openEuler 至 RK3399 平台](https://gitee.com/openeuler/marketing/issues/I1IJ4B)
-
-- openEuler 是一款开源操作系统。当前 openEuler 内核源于 Linux，支持鲲鹏及其它多种处理器，能够充分释放计算芯片的潜能，是由全球开源贡献者构建的高效、稳定、安全的开源操作系统。
-- RK3399 是瑞芯微推出的一款低功耗、高性能的应用处理器芯片。作为 Firefly 新一代的顶级开源平台，RK3399 凭借其高稳定性、高性能、高集成度、高扩展性而广泛用于人脸识别设备、无人机、机器人、游戏机等应用产品。
-- 本项目的目标是将 openEuler 移植到 Firefly-RK3399 上，并保证 RK3399 的外设均可用。
-
-_难度_ 高
-
-_导师_
-- overweight 
-- woqidaideshi 
-
-_联系方式_
-- hexiaowen@huawei.com
-- yafen@iscas.ac.cn
-
-_产出标准_
-- 1. openEuler 的 RK3399 的镜像
-    - 内核基于 openEuler 20.03 LTS 版本的 Linux 内核
-    - 文件系统基于 openEuler 20.03 LTS 软件源制作
-    - 支持 AArch64 架构
-    - 支持通过 dnf 安装 openEuler 20.03 LTS 软件源中的软件包
-    - 支持编译 Linux 内核
-    - RK3399 的硬件模块均可用，如 音频输入输出、USB 3.0、USB 2.0、以太网、Wifi、蓝牙、红外、摄像头、GPIO 等
-- 2. openEuler 内核适配到 RK3399 的内核源码补丁以及针对其他软件包的源码补丁
-- 3. 镜像制作程序和文档
-- 4. RK3399 的 音频输入输出、USB 3.0、USB 2.0、以太网、Wifi、蓝牙、红外、摄像头、GPIO 等的使用文档
-
-_任务链接_ https://gitee.com/openeuler/marketing/issues/I1IJ4B
 
 #### [No.89 - 基于Rust实现HDFS的用户态FUSE驱动](https://gitee.com/openeuler/marketing/issues/I1IMGW)
 
