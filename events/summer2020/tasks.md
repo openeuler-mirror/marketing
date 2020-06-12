@@ -3,10 +3,46 @@
 
       <img src="https://images.gitee.com/uploads/images/2020/0602/110449_bffd2ff4_23249.jpeg" style="width:20%;"/>
 
-    - B 站直播
-        - [[June 7th, 2020]] 19:00 ~ 20:00 方亚芬老师讲解 暑期 2020 团体任务 - [No.88 - 移植 openEuler 至 RK3399 平台](https://gitee.com/openeuler/marketing/issues/I1IJ4B)、[No.1 - 为 openEuler 添加 Xfce 桌面环境并能够运行在树莓派 4B 上](https://gitee.com/openeuler/marketing/issues/I1H8G3)、[No.2 - 精简 openEuler 的树莓派 4B 镜像体积小于 500 MiB](https://gitee.com/openeuler/marketing/issues/I1H8H9)、[No.3 - 为 openEuler 树莓派 4B 镜像提供 UEFI 启动支持](https://gitee.com/openeuler/marketing/issues/I1H8HV)
-        - [[June 8th, 2020]] 19:00 ~ 20:00 何晓文老师讲解 暑期 2020 团体任务 - [No.88 - 移植 openEuler 至 RK3399 平台](https://gitee.com/openeuler/marketing/issues/I1IJ4B)、[No.49 - 基于 openEuler 的 ABI 检查工具](https://gitee.com/openeuler/marketing/issues/I1HQSE)、[No.47 - 开发 openEuler bootstrap 工具](https://gitee.com/openeuler/marketing/issues/I1HAXJ)
-        - [[June 9th, 2020]] 19:00 ~ 20:00 蔡灏旻老师讲解容器技术相关任务 [No.7 - 构建可运行 iSulad 点容器镜像，并推送到 Docker Hub 镜像仓库](https://gitee.com/openeuler/marketing/issues/I1HVZF) [No.9 - iSula 相关项目支持编译 Debian 包](https://gitee.com/openeuler/marketing/issues/I1HWDZ) [No.10 - iSula 项目内存池设计与实现](https://gitee.com/openeuler/marketing/issues/I1HX3G) [No.11 - iSula 项目线程池设计与实现](https://gitee.com/openeuler/marketing/issues/I1HX5Y) [No.12 - iSula-kits 支持在多个 OS 发型版上运行](https://gitee.com/openeuler/marketing/issues/I1HXE7) [No. 13 - iSula 容器镜像构建工具支持多存储驱动](https://gitee.com/openeuler/marketing/issues/I1HXS9) [No.84 - 在 RISC-V 架构 openEuler 平台上提供 iSulad](https://gitee.com/openeuler/marketing/issues/I1HXS9)
+    - B 站直播计划
+        - [[June 7th, 2020]] 19:00 ~ 20:00 方亚芬讲解 
+          - 暑期 2020 团体任务 - [No.88 - 移植 openEuler 至 RK3399 平台](https://gitee.com/openeuler/marketing/issues/I1IJ4B)
+          - [No.1 - 为 openEuler 添加 Xfce 桌面环境并能够运行在树莓派 4B 上](https://gitee.com/openeuler/marketing/issues/I1H8G3)
+          - [No.2 - 精简 openEuler 的树莓派 4B 镜像体积小于 500 MiB](https://gitee.com/openeuler/marketing/issues/I1H8H9) 
+          - [No.3 - 为 openEuler 树莓派 4B 镜像提供 UEFI 启动支持](https://gitee.com/openeuler/marketing/issues/I1H8HV)
+        - [[June 8th, 2020]] 19:00 ~ 20:00 何晓文讲解 
+          - 暑期 2020 团体任务 [No.88 - 移植 openEuler 至 RK3399 平台](https://gitee.com/openeuler/marketing/issues/I1IJ4B)
+          - [No.49 - 基于 openEuler 的 ABI 检查工具](https://gitee.com/openeuler/marketing/issues/I1HQSE)
+          - [No.47 - 开发 openEuler bootstrap 工具](https://gitee.com/openeuler/marketing/issues/I1HAXJ)          
+        - [[June 9th, 2020]] 19:00 ~ 20:00 蔡灏旻讲解容器技术相关任务 
+          - [No.7 - 构建可运行 iSulad 点容器镜像，并推送到 Docker Hub 镜像仓库](https://gitee.com/openeuler/marketing/issues/I1HVZF)
+          - [No.9 - iSula 相关项目支持编译 Debian 包](https://gitee.com/openeuler/marketing/issues/I1HWDZ)
+          - [No.10 - iSula 项目内存池设计与实现](https://gitee.com/openeuler/marketing/issues/I1HX3G)
+          - [No.11 - iSula 项目线程池设计与实现](https://gitee.com/openeuler/marketing/issues/I1HX5Y)
+          - [No.12 - iSula-kits 支持在多个 OS 发型版上运行](https://gitee.com/openeuler/marketing/issues/I1HXE7)
+          - [No. 13 - iSula 容器镜像构建工具支持多存储驱动](https://gitee.com/openeuler/marketing/issues/I1HXS9)-
+          - [No.84 - 在 RISC-V 架构 openEuler 平台上提供 iSulad](https://gitee.com/openeuler/marketing/issues/I1HXS9)
+        - June 15th, 2020 20:00 ~ 21:00 虚拟化相关任务讲解
+          - [No.52 - openEuler 虚拟化调度性能评估工具及方法构建](https://gitee.com/openeuler/marketing/issues/I1I9XJ)
+          - [No.6 - 虚拟化场景下的类似 top 点调测工具 virttop](https://gitee.com/openeuler/marketing/issues/I1HVM7)
+          - [No.66 - QEMU 中集成 virtio-fuzz 能力以支持模拟设备的模糊测试](https://gitee.com/openeuler/marketing/issues/I1IHCJ)
+          - [No.62 - QEMU 用户态进程热补丁框架](https://gitee.com/openeuler/marketing/issues/I1IG8E)
+        - June 16th, 2020 20:00 ~ 21:00 测试相关任务讲解
+          - [No.69 - api-sanity-checker 与 oss-fuzz 测试结合的误报优化](https://gitee.com/openeuler/marketing/issues/I1IHNM)
+          - [No.34 - 对 openEuler 社区发布包 keepalived 进行加固测试](https://gitee.com/openeuler/marketing/issues/I1I6CG)
+          - [No.35 - 对 openEuler 社区发布包 kmod-kvdo 进行加固测试](https://gitee.com/openeuler/marketing/issues/I1I6CY)
+          - [No.36 - 对 openEuler 社区发布包 OpenVPN 进行加固测试](https://gitee.com/openeuler/marketing/issues/I1I6D6)
+          - [No.37 - 对 openEuler 社区发布包 lrzsz 进行加固测试](https://gitee.com/openeuler/marketing/issues/I1I6EO)
+          - [No.38 - 对 openEuler 社区发布包 ipvsadm 进行加固测试](https://gitee.com/openeuler/marketing/issues/I1I6F2)
+          - [No.39 - 对 openEuler 社区发布包 MongoDB 进行加固测试](https://gitee.com/openeuler/marketing/issues/I1I6GM)
+          - [No.40 - 对 openEuler 社区发布包 Redis 进行加固测试](https://gitee.com/openeuler/marketing/issues/I1I6GW)
+          - [No.41 - 对 openEuler 社区发布包 sssd 进行加固测试](https://gitee.com/openeuler/marketing/issues/I1I6IK)
+          - [No.42 - 对 openEuler 社区发布包 MySQL 进行加固测试](https://gitee.com/openeuler/marketing/issues/I1I6IN)
+          - [No.43 - 对 openEuler 社区发布包 rpcbind 进行加固测试](https://gitee.com/openeuler/marketing/issues/I1I6JE)
+          - [No.44 - 对 openEuler 社区发布包 haproxy 进行加固测试](https://gitee.com/openeuler/marketing/issues/I1I6JI)
+          - [No.29 - 对openEuler社区发布包osc和obs-build进行加固测试](https://gitee.com/openeuler/marketing/issues/I1I5WZ)
+        - June 17th, 2020 20:00 ~ 21:00 openEuler 社区之旅参与介绍
+          - 介绍如何在 openEuler 社区贡献
+          
 1. [No.88 - 移植 openEuler 至 RK3399 平台](https://gitee.com/openeuler/marketing/issues/I1IJ4B) 团体项目 - **建议申请此任务的团队需要有一定的 Linux 操作系统实战能力，掌握 Linux 内核及硬件驱动相关知识，熟悉掌握操作系统引导与启动机制。**
 
     [openEuler](https://openeuler.org) 社区致力于把 [openEuler](https://openeuler.org) 发行版移植到多种设备上，目前已经能在 [Raspberry Pi](https://www.raspberrypi.org) 4B Model 上顺利运行。这次团体任务的目标是把 [openEuler](https://openeuler.org) 20.03 LTS 版本移植到瑞芯微推出的 RK3399 芯片上运行，社区建议参与此任务团队在 Firefly 出品的 [4GB 内存/16GB 闪存](https://item.jd.com/23958924426.html) 版本的开发板进行移植任务。
